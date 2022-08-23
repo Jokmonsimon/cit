@@ -13,4 +13,3 @@ alphabet = []
 for i in range(ord('A'), ord('Z') + 1):
     alphabet.append(chr(i))
 print(alphabet)
-#ganesh.
