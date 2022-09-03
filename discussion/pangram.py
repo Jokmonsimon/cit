@@ -18,3 +18,6 @@ if(ispangram(string) == True):
     print("Yes")
 else:
     print("No")
+
+done = True
+print(isinstance(done, bool))
